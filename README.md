@@ -1,2 +1,2 @@
-# andreiconstantin.dev
-🌐 My developer portfolio landing page
+# Portfolio (andreiconstantin.dev)
+My developer portfolio landing page
