@@ -1,8 +1,7 @@
-# Portfolio (andreiconstantin.dev)
-This is the source for my personal landing page, hosted at [https://andreiconstantin.dev](https://andreiconstantin.dev).  
-It's a simple, clean one-pager built with HTML and CSS — more coming soon.  
+# andreiconstantin.dev
+[![andreiconstantin.dev](https://img.shields.io/badge/andreiconstantin.dev-online-brightgreen?style=flat&logo=github)](https://andreiconstantin.dev)
 
-
+Source for my personal landing page at [andreiconstantin.dev](https://andreiconstantin.dev).  
 
 ---
 
